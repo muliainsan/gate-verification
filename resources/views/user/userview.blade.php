@@ -33,7 +33,7 @@
                             <!-- /.card-header -->
                             <div class="card-body">
                                 <table id="example1" class="table table-bordered table-striped">
-                                    <a href="{{ url('/user/create') }}" class="btn btn-primary mb-2 ">Tambah User</a>
+                                    <a href="{{ url('/user/create') }}" class="btn btn-primary mb-2">Tambah User</a>
                                     <thead>
                                         <tr>
                                             <th>Rendering engine</th>
